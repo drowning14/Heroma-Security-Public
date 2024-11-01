@@ -1,6 +1,6 @@
 # Heroma Security Bot 🤖🔒
 
-This bot was created to help protect [HeromaStudios](https://discord.gg/xmZCNmftdn). Note: this bot is not highly advanced, so please avoid relying on it as the sole security for your server.
+This bot was created to help protect [HeromaStudios](https://discord.com/invite/heromastudios). Note: this bot is not highly advanced, so please avoid relying on it as the sole security for your server.
 
 ## Features 🚀
 
